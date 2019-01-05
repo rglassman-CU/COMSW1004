@@ -1,4 +1,4 @@
-# COMSW1004 Programming Project 4
+# COMSW1004 Programming Project 4: Video Poker
 Course work for programming project 4 in Intro CS & Java. The task was to model a game of video poker, using four classes: 
 - Card, which models a playing card and allows comparison of cards by rank and suit
 - Deck, which models a deck of cards and allows for shuffling of the deck and dealing of cards
