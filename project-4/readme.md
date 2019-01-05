@@ -5,6 +5,7 @@ Course work for programming project 4 in Intro CS & Java. The task was to model 
 - Player, which models a human player and a computer player and keeps track of a player's bets and amount of money
 - Game, which models the game of poker and includes methods for evaluating the worth of a hand of cards
 
+Error handling was not expected; students were allowed to assume correct input.
 Explanation of my implementation of the classes below: 
 
 ## Card
